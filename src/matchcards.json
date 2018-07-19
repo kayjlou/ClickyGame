@@ -42,22 +42,22 @@
   },
   {
     "name": "puppy9",
-    "image": "./assets/images/puppy9.jpeg",
+    "image": "https://s5.postimg.cc/jo4idv6cj/Puppy9.jpg",
     "clicked": false
   },
   {
     "name": "puppy10",
-    "image": "./assets/images/puppy10.jpeg",
+    "image": "https://s5.postimg.cc/c9f6kwckz/Puppy10.jpg",
     "clicked": false
   },
   {
     "name": "puppy11",
-    "image": "./assets/images/puppy11.jpeg",
+    "image": "https://s5.postimg.cc/oo1yl8bsz/Puppy11.jpg",
     "clicked": false
   },
   {
     "name": "puppy12",
-    "image": "./assets/images/puppy12.jpeg",
+    "image": "https://s5.postimg.cc/9fc17gpub/Puppy12.jpg",
     "clicked": false
   }
 ]
