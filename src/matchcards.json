@@ -1,43 +1,43 @@
 [
   {
     "name": "puppy1",
-    "image": "./assets/images/puppy1.jpeg",
+    "image": "https://s5.postimg.cc/cxo14dtgj/Puppy1.jpg",
     "clicked": false
 
   },
   {
     "name": "puppy2",
-    "image": "https://postimg.cc/image/cxo14dtgj/imghttps://s5.postimg.cc/cxo14dtgj/Puppy1.jpg",
-    "clicked": false
-  },
-  {
-    "name": "puppy3",
     "image": "https://s5.postimg.cc/a3kvqym5f/Puppy2.jpg",
     "clicked": false
   },
   {
+    "name": "puppy3",
+    "image": "https://s5.postimg.cc/42n6tvcdv/Puppy3.jpg",
+    "clicked": false
+  },
+  {
     "name": "puppy4",
-    "image": "./assets/images/puppy4.jpeg",
+    "image": "https://s5.postimg.cc/qrcdtg1hf/Puppy4.jpg",
     "clicked": false
   },
   {
     "name": "puppy5",
-    "image": "./assets/images/puppy5.jpeg",
+    "image": "https://s5.postimg.cc/nkhu9tor7/Puppy5.jpg",
     "clicked": false
   },
   {
     "name": "puppy6",
-    "image": "./assets/images/puppy6.jpeg",
+    "image": "https://s5.postimg.cc/3pvsnpoz7/Puppy6.jpg",
     "clicked": false
   },
   {
     "name": "puppy7",
-    "image": "./assets/images/puppy7.jpeg",
+    "image": "https://s5.postimg.cc/q1tlh43ir/Puppy7.jpg",
     "clicked": false
   },
   {
     "name": "puppy8",
-    "image": "./assets/images/puppy8.jpeg",
+    "image": "https://s5.postimg.cc/ckwmy8lhf/Puppy8.jpg",
     "clicked": false
   },
   {
