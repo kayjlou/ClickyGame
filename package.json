@@ -1,29 +1,27 @@
 {
   "name": "clickygame",
   "version": "1.0.0",
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
-  "main": "server.js",
+  "description": "react",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router": "^4.3.1",
+    "yarn": "^1.7.0"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "npm start",
-    "start": "node server.js"
+    "test": "react-scripts start"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kayjlou/ClickyGame.git"
   },
-  "keywords": [
-    "react"
-  ],
-  "author": "Katie Lewis",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kayjlou/ClickyGame/issues"
   },
-  "homepage": "https://github.com/kayjlou/ClickyGame#readme",
-  "dependencies": {
-    "express": "^4.16.3",
-    "react-dom": "^16.4.1",
-    "react-router": "^4.3.1",
-    "yarn": "^1.7.0"
-  }
+  "homepage": "https://github.com/kayjlou/ClickyGame#readme"
 }
