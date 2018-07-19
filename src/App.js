@@ -98,7 +98,7 @@ class App extends Component {
   render(){
       return (
           <Wrapper>
-            <Title> Are you up to the click challenge?!</Title>
+            <Title> Puppy Click Challenge</Title>
 
             <h3 className = "scoreSummary">
               {this.state.clickMessage}
