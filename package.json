@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/kayjlou/ClickyGame#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "react-dom": "^16.4.1",
     "react-router": "^4.3.1",
     "yarn": "^1.7.0"
