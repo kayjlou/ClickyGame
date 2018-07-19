@@ -7,12 +7,12 @@
   },
   {
     "name": "puppy2",
-    "image": "./public/assets/images/puppy2.jpeg",
+    "image": "https://postimg.cc/image/cxo14dtgj/imghttps://s5.postimg.cc/cxo14dtgj/Puppy1.jpg",
     "clicked": false
   },
   {
     "name": "puppy3",
-    "image": "./assets/images/puppy3.jpeg",
+    "image": "https://s5.postimg.cc/a3kvqym5f/Puppy2.jpg",
     "clicked": false
   },
   {
