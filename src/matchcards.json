@@ -7,7 +7,7 @@
   },
   {
     "name": "puppy2",
-    "image": "./assets/images/puppy2.jpeg",
+    "image": "/../public/assets/images/puppy2.jpeg",
     "clicked": false
   },
   {
