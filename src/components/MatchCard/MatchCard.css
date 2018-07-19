@@ -11,10 +11,11 @@
 }
 
 .card > .img-container {
-  width: 100%;
   height: auto;
+  border: 3px;
   overflow: hidden;
   text-align: center;
+  background: white;
 }
 .card > .img-container img {
   margin-top: 10px;

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "puppy1",
+    "image": "./assets/images/puppy1.jpeg",
+    "clicked": false
+
+  },
+  {
+    "name": "puppy2",
+    "image": "./assets/images/puppy2.jpeg",
+    "clicked": false
+  },
+  {
+    "name": "puppy3",
+    "image": "./assets/images/puppy3.jpeg",
+    "clicked": false
+  },
+  {
+    "name": "puppy4",
+    "image": "./assets/images/puppy4.jpeg",
+    "clicked": false
+  },
+  {
+    "name": "puppy5",
+    "image": "./assets/images/puppy5.jpeg",
+    "clicked": false
+  },
+  {
+    "name": "puppy6",
+    "image": "./assets/images/puppy6.jpeg",
+    "clicked": false
+  }
+  
+]
