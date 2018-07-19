@@ -29,6 +29,35 @@
     "name": "puppy6",
     "image": "./assets/images/puppy6.jpeg",
     "clicked": false
+  },
+  {
+    "name": "puppy7",
+    "image": "./assets/images/puppy7.jpeg",
+    "clicked": false
+  },
+  {
+    "name": "puppy8",
+    "image": "./assets/images/puppy8.jpeg",
+    "clicked": false
+  },
+  {
+    "name": "puppy9",
+    "image": "./assets/images/puppy9.jpeg",
+    "clicked": false
+  },
+  {
+    "name": "puppy10",
+    "image": "./assets/images/puppy10.jpeg",
+    "clicked": false
+  },
+  {
+    "name": "puppy11",
+    "image": "./assets/images/puppy11.jpeg",
+    "clicked": false
+  },
+  {
+    "name": "puppy12",
+    "image": "./assets/images/puppy12.jpeg",
+    "clicked": false
   }
-  
 ]
