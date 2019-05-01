@@ -3,16 +3,16 @@
 }
 
 .title {
-  width:100%;
-  text-align:center;
-  margin-bottom:0px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 0px;
 }
 
-.scoreSummary{
+.scoreSummary {
   color: white;
   width: 100%;
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .App-logo {
@@ -36,6 +36,10 @@
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
